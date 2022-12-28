@@ -1,9 +1,9 @@
 ## About Me :raising_hand_man:
 *Hey there!* I am Peter Wang, a first-year ```Software Engineering``` student @ the **University of Waterloo**.
 
-I am passionate about anything in the realm of computer science, robotics, and mathematics. I am currently a member of WATonomous working to design a level four autonomous vehicle for the University of Waterloo Alternative Fuels Team (UWAFT) competing in the EcoCar Challenge.
+I am passionate about everything in the realm of computer science, robotics and artificial intelligence. I am currently a member of WATonomous working towards designing a level four autonomous vehicle for the University of Waterloo Alternative Fuels Team (UWAFT) competing in the EcoCar Challenge.
 
-In my spare time, you can find me rock climbing with my friends in a match of WeiQi or skateboarding through the night! Now that you know a little about me, I would love to get to know you better too! Feel free to send me a message right here on LinkedIn or email me!
+In my spare time, you can find me rock climbing with my friends in a match of WeiQi or skateboarding through the night! Feel free to check out my projects and shoot me a message through any of the contact methods listed below.
 
 ## Contact Information :card_index:
 <a href="https://www.instagram.com/pete._.mango/">![Instagram](https://img.shields.io/badge/PeteMango-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
@@ -15,8 +15,8 @@ In my spare time, you can find me rock climbing with my friends in a match of We
 ## Relevant Skills :desktop_computer:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
