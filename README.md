@@ -1,18 +1,18 @@
-## About Me 🙋🏻‍♂️
+## About Me :raising_hand_man:
 Hey there 👋! I am Peter Wang, a first-year Software Engineering student @ the University of Waterloo.
 
 I am passionate about anything in the realm of computer science, robotics, and mathematics. I am currently working with WATonomous 🚘 to design a level four autonomous vehicle for the University of Waterloo Alternative Fuels Team (UWAFT) competing in the EcoCar Challenge 🌱.
 
 In my spare time, you can find me rock climbing with my friends 🧗‍♂️ in a match of WeiQi ⚪⚫ or skateboarding through the night 🛹! Now that you know a little about me, I would love to get to know you better too! Feel free to send me a message right here on LinkedIn or email me!
 
-## Contact Information 📇
+## Contact Information :card_index:
 <a href="https://www.instagram.com/pete._.mango/">![Instagram](https://img.shields.io/badge/PeteMango-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a> 
 <a href="https://www.linkedin.com/in/peter-wang-1aa901206/">![LinkedIn](https://img.shields.io/badge/Peter_Wang-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 <a href="mailto:whcpeterwang@gmail.com">![Gmail](https://img.shields.io/badge/whcpeterwang-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 </a>![Discord](https://img.shields.io/badge/PeteMango%232175-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 <a href="https://open.spotify.com/user/whcpeterwang?si=c5015e15e790474a">![Spotify](https://img.shields.io/badge/PeteMango-%38B9AB.svg?style=for-the-badge&logo=spotify&logoColor=white)</a>
 
-## Relevant Skills 💻
+## Relevant Skills :desktop_computer:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -32,6 +32,6 @@ In my spare time, you can find me rock climbing with my friends 🧗‍♂️ in
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Github Stats
+## Github Stats :octocat:
 ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeteMango&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![tmaswang03 github streak](https://github-readme-streak-stats.herokuapp.com/?user=PeteMango&theme=radical&include_all_commits=true&count_private=true)
