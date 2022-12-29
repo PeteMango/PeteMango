@@ -11,6 +11,7 @@ In my spare time, you can find me rock climbing with my friends in a match of We
 <a href="mailto:whcpeterwang@gmail.com">![Gmail](https://img.shields.io/badge/whcpeterwang-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white)
 </a>![Discord](https://img.shields.io/badge/PeteMango%232175-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 <a href="https://open.spotify.com/user/whcpeterwang?si=c5015e15e790474a">![Spotify](https://img.shields.io/badge/PeteMango-%38B9AB.svg?style=for-the-badge&logo=spotify&logoColor=white)</a>
+<a href="https://www.last.fm/user/Petemango">![LastFM](https://img.shields.io/badge/PeteMango-D51007?style=for-the-badge&logo=last.fm&logoColor=white)</a>
 
 ## Relevant Skills :desktop_computer:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
