@@ -38,4 +38,5 @@ Feel free to check out my personal website <a href="https://petemango.netlify.ap
 
 ## Github Stats :octocat:
 ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeteMango&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-![tmaswang03 github streak](https://github-readme-streak-stats.herokuapp.com/?user=PeteMango&theme=radical&include_all_commits=true&count_private=true)
+![Peter's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeteMango&theme=radical&include_all_commits=true&count_private=true)
+![Peter's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PeteMango&theme=radical)
