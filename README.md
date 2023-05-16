@@ -41,6 +41,10 @@ Feel free to check out my personal website <a href="https://petemango.netlify.ap
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Apache Subversion](https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)
+
 ## Github Stats :octocat:
 <!-- ![Peter's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeteMango&show_icons=true&theme=radical&count_private=true&include_all_commits=true) -->
 ![Peter's Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=PeteMango&theme=radical&include_all_commits=true&count_private=true)
