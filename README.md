@@ -1,7 +1,7 @@
 ## About Me :raising_hand_man:
-*Hey there!* I am Peter Wang, a first-year ```Software Engineering``` student @ the **University of Waterloo**.
+*Hey there!* I am Peter Wang, a second-year ```Software Engineering``` student @ the **University of Waterloo**.
 
-I am passionate about everything in the realm of computer science, robotics and artificial intelligence. I am currently a member of WATonomous working towards designing a level four autonomous vehicle for the University of Waterloo Alternative Fuels Team (UWAFT) competing in the EcoCar Challenge.
+I am passionate about everything in the realm of computer science, robotics and artificial intelligence. I am previously a systems software intern @Blackberry.
 
 In my spare time, you can find me rock climbing with my friends in a match of WeiQi or skateboarding through the night! Feel free to check out my projects and shoot me a message through any of the contact methods below.
 
