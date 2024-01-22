@@ -7,4 +7,5 @@ I am passionate about everything in the realm of computer science, with a focus 
 
 * 🔐 Was a **systems software developer** intern @Blackberry, with a focus on Elliptic Curve Cryptography.
 
-* 🚙 Was an **autonomous software member** @WATonomous, with a focus on perception and object dection.
+* 🚙 Formerly an **autonomous software member** @WATonomous, with a focus on perception and object dection.
+
