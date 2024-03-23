@@ -18,7 +18,7 @@ Previously...
 
 Languages: Python, C, C++, Golang, Java, Groovy, Shell \
 Frameworks/Libraries: PyTorch, PyTest, GTest, Valgrind, Gin, Flask \
-Developer Tools: Docker, Podman, Jenkins, Jira, Coverity, Git
+Developer Tools: Docker, Podman, Jenkins, Jira, Coverity, MongoDB, Git
 
 ## 🤝 Let's Connect 
 
