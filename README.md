@@ -16,11 +16,11 @@ Previously...
 
 ## 🛠️ Technologies!
 
-Languages: Python, C/C++, Golang, Java, Groovy, Shell \
+Languages: Python, C, C++, Golang, Java, Groovy, Shell \
 Frameworks/Libraries: PyTorch, PyTest, GTest, Valgrind, Gin, Flask \
 Developer Tools: Docker, Podman, Jenkins, Jira, Coverity, Git
 
 ## 🤝 Let's Connect 
 
 - Email: p25wang@uwaterloo.ca
-- Linkedin: https://www.linkedin.com/in/p25wang/ 
+- Linkedin: https://www.linkedin.com/in/p25wang/
