@@ -17,7 +17,7 @@ Previously...
 ## 🛠️ Technologies!
 
 Languages: Python, C, C++, Golang, Java, Groovy, Shell \
-Frameworks/Libraries: PyTorch, PyTest, GTest, Valgrind, Gin, Flask \
+Frameworks/Libraries: PyTorch, PyTest, GTest, OpenSSL, Valgrind, Gin, Flask \
 Developer Tools: Docker, Podman, Jenkins, Jira, Coverity, MongoDB, Git
 
 ## 🤝 Let's Connect 
