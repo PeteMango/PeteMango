@@ -8,7 +8,7 @@ I'm a second year **Software Engineering** student at the **University of Waterl
 
 Currently...
 - Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Building the Helix Virtualization Platform 🚀
-- Undergraduate Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Researching Lidar based SLAM under Prof. Yash Pant 🚙
+- Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Researching Lidar based SLAM under Prof. Yash Pant 🚙
 
 Previously...
 - Systems Software Engineer Intern @ [Blackberry](https://www.blackberry.com/us/en) | Elliptic Curve Cryptography for the Security Builder library 🔐 
