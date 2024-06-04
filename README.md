@@ -2,15 +2,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Hey+there,+I'm+Peter+%F0%9F%91%8B)](https://git.io/typing-svg#gh-light-mode-only)
 
 I'm a second year **Software Engineering** student at the **University of Waterloo**, currently seeking \
-**Fall 2024** SWE internship opportunities 🌱
+**Summer 2025** SWE internship opportunities 🌱
 
 ## 💻 My Experiences!
 
+Incoming...
+- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca)
+
 Currently...
-- Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Building the Helix Virtualization Platform 🚀
 - Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Researching Lidar based SLAM under Prof. Yash Pant 🚙
 
 Previously...
+- Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Building the Helix Virtualization Platform 🚀
 - Systems Software Engineer Intern @ [Blackberry](https://www.blackberry.com/us/en) | Elliptic Curve Cryptography for the Security Builder library 🔐 
 - Autonomous Software Developer @ [WATonomous](https://www.watonomous.ca/) | Engineering object detection models for autonomous vehicles 🚗
 
