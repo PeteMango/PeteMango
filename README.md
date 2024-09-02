@@ -6,10 +6,8 @@ I'm a second year **Software Engineering** student at the **University of Waterl
 
 ## 💻 My Experiences!
 
-Incoming...
-- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca)
-
 Currently...
+- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca)
 - Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Researching Lidar based SLAM under Prof. Yash Pant 🚙
 
 Previously...
