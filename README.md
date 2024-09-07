@@ -7,7 +7,7 @@ I'm a second year **Software Engineering** student at the **University of Waterl
 ## 💻 My Experiences!
 
 Currently...
-- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca)
+- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca) | Securing shopify's software on non-shopify infrastructure 🛍️
 - Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Researching Lidar based SLAM under Prof. Yash Pant 🚙
 
 Previously...
@@ -17,9 +17,9 @@ Previously...
 
 ## 🛠️ Technologies!
 
-Languages: Python, C, C++, Golang(Go), Java, Apache Groovy, Shell \
-Frameworks/Libraries: PyTest, PyTorch, PyCa, Rclcpp, GTest, Libgit2, OpenSSL, Gin, Flask \
-Developer Tools: Docker, Podman, CMake, Jenkins, Github Workflows, Jira, RViz2, MongoDB, Git
+Languages: C++, Python, Go, Ruby, Java, Groovy, SQL, Shell \
+Frameworks/Libraries: Flask, Gin, Rails, Spring, Django, PyTorch, PyTest \
+Developer Tools: Docker, Kubernetes, Google Cloud, Terraform, Jenkins, Buildkite, Postgres, Git
 
 ## 🤝 Let's Connect 
 
