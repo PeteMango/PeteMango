@@ -17,9 +17,9 @@ Previously...
 
 ## 🛠️ Technologies!
 
-Languages: C++, Python, Go, Ruby, Java, Groovy, SQL, Shell \
-Frameworks/Libraries: Flask, Gin, Rails, Spring, Django, PyTorch, PyTest \
-Developer Tools: Docker, Kubernetes, Google Cloud, Terraform, Jenkins, Buildkite, Postgres, Git
+**Languages:** Go, Python, C++, Ruby, SQL \
+**Technologies:** Flask, Gin, Rails, Postgres, GraphQL, Terraform \
+**Developer Tools:** Docker, Kubernetes, Google Cloud Platform, Buildkite, Splunk, Git
 
 ## 🤝 Let's Connect 
 
