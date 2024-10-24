@@ -7,19 +7,20 @@ I'm a second year **Software Engineering** student at the **University of Waterl
 ## 💻 My Experiences!
 
 Currently...
-- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca) | Securing shopify's software on non-shopify infrastructure 🛍️
-- Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Researching Lidar based SLAM under Prof. Yash Pant 🚙
+- Software Engineer Intern @ [Shopify](https://www.shopify.com/ca) | Infrastructurey Security 🛍️
+- Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Simualtion Infrastructure under Prof. Yash Pant 🖥️
+- Applied ML Reseach @ [Algoverse](https://algoverseairesearch.org/) | Applied Machine Learning for Medical Diagnosis 🩻
 
 Previously...
-- Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Building the Helix Virtualization Platform 🚀
-- Systems Software Engineer Intern @ [Blackberry](https://www.blackberry.com/us/en) | Elliptic Curve Cryptography for the Security Builder library 🔐 
-- Autonomous Software Developer @ [WATonomous](https://www.watonomous.ca/) | Engineering object detection models for autonomous vehicles 🚗
+- Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Helix Virualization Platofmr 🚀
+- Systems Software Engineer Intern @ [Blackberry](https://www.blackberry.com/us/en) | Elliptic Curve Cryptography 🔐 
+- Autonomous Software Developer @ [WATonomous](https://www.watonomous.ca/) | Autonomous Vehicles 🚗
 
 ## 🛠️ Technologies!
 
 **Languages:** Go, Python, C++, Ruby, SQL \
-**Technologies:** Flask, Gin, Rails, Postgres, GraphQL, Terraform \
-**Developer Tools:** Docker, Kubernetes, Google Cloud Platform, Buildkite, Splunk, Git
+**Technologies:** Flask, Rails, Postgres, Neo4j, GraphQL, Terraform, Kafka \
+**Developer Tools:** Docker, Kubernetes, Google Cloud Platform, Buildkite, Prometheus, Datadog, Git
 
 ## 🤝 Let's Connect 
 
