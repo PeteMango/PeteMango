@@ -8,8 +8,8 @@ I'm a second year **Software Engineering** student at the **University of Waterl
 
 Currently...
 - Software Engineer Intern @ [Shopify](https://www.shopify.com/ca) | Infrastructurey Security 🛍️
-- Research Assistant @ [AVRIL](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Simualtion Infrastructure under Prof. Yash Pant 🖥️
-- Applied ML Reseach @ [Algoverse](https://algoverseairesearch.org/) | Applied Machine Learning for Medical Diagnosis 🩻
+- Applied ML Reseacher @ [Algoverse](https://algoverseairesearch.org/) | Applied Machine Learning for Medical Diagnosis 🩻
+- Research Assistant @ [University of Waterloo](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Simualtion Infrastructure under Prof. Yash Pant 🖥️
 
 Previously...
 - Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Helix Virualization Platofmr 🚀
