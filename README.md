@@ -2,19 +2,22 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&color=000000&vCenter=true&width=430&height=40&lines=Hey+there,+I'm+Peter+%F0%9F%91%8B)](https://git.io/typing-svg#gh-light-mode-only)
 
 I'm a second year **Software Engineering** student at the **University of Waterloo**, currently seeking \
-**Summer 2025** SWE internship opportunities 🌱
+**Winter 2026** SWE internship opportunities 🌱
 
 ## 💻 My Experiences!
 
+Incoming...
+- SWE Intern @[Wealthsimple](https://www.wealthsimple.com/en-ca) | Winter 2025 (Jan - Apr) 📈
+- SWE Intern @[Databricks](https://www.databricks.com/) | Summer 2025 (May - Aug) 🧱
+
 Currently...
+
 - Software Engineer Intern @ [Shopify](https://www.shopify.com/ca) | Infrastructurey Security 🛍️
-- Applied ML Reseacher @ [Algoverse](https://algoverseairesearch.org/) | Applied Machine Learning for Medical Diagnosis 🩻
 - Research Assistant @ [University of Waterloo](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Simualtion Infrastructure under Prof. Yash Pant 🖥️
 
 Previously...
 - Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Helix Virualization Platofmr 🚀
 - Systems Software Engineer Intern @ [Blackberry](https://www.blackberry.com/us/en) | Elliptic Curve Cryptography 🔐 
-- Autonomous Software Developer @ [WATonomous](https://www.watonomous.ca/) | Autonomous Vehicles 🚗
 
 ## 🛠️ Technologies!
 
