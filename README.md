@@ -6,16 +6,13 @@ I'm a second year **Software Engineering** student at the **University of Waterl
 
 ## 💻 My Experiences!
 
-Incoming...
-- SWE Intern @[Wealthsimple](https://www.wealthsimple.com/en-ca) | Winter 2025 (Jan - Apr) 📈
-- SWE Intern @[Databricks](https://www.databricks.com/) | Summer 2025 (May - Aug) 🧱
-
 Currently...
 
 - Software Engineer Intern @ [Shopify](https://www.shopify.com/ca) | Infrastructurey Security 🛍️
 - Research Assistant @ [University of Waterloo](https://uwaterloo.ca/autonomous-vehicle-research-intelligence-lab/about) | Simualtion Infrastructure under Prof. Yash Pant 🖥️
 
 Previously...
+
 - Software Engineer Intern @ [Wind River Systems](https://www.windriver.com/) | Helix Virualization Platofmr 🚀
 - Systems Software Engineer Intern @ [Blackberry](https://www.blackberry.com/us/en) | Elliptic Curve Cryptography 🔐 
 
