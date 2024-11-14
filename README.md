@@ -12,6 +12,6 @@ I've worked at <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> 
 
 Feel free to reach out if you think I would be a good addition to your team!
 
-- Email: p25wang@uwaterloo.ca
+- Email: p25wang[at]uwaterloo[dot]ca
 - Linkedin: https://www.linkedin.com/in/p25wang/
 
