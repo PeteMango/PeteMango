@@ -10,7 +10,7 @@ I've worked at <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> 
 **Tech:** Flask, Rails, Postgres, GraphQL, Terraform, Kafka \
 **Developer Tools:** Docker, Kubernetes, Google Cloud, Buildkite, Prometheus, Datadog, Git
 
-Feel free to reach out if you think I would be a good addition to your team!
+Feel free to checkout my [portfolio](https://petemango.me/) reach out if you think I would be a good addition to your team!
 
 - Email: p25wang[at]uwaterloo[dot]ca
 - Linkedin: https://www.linkedin.com/in/p25wang/
