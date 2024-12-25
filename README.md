@@ -7,11 +7,11 @@ I'm a third year **Software Engineering** student at the **University of Waterlo
 I've worked at <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
 
 **Languages:** Go, Python, C++, Ruby, SQL \
-**Tech:** Flask, Rails, Postgres, GraphQL, Terraform, Kafka \
-**Developer Tools:** Docker, Kubernetes, Google Cloud, Buildkite, Prometheus, Datadog, Git
+**Tech:** Flask, Django, Rails, Postgres, GraphQL, Terraform
+**Developer Tools:** Docker, Kubernetes, Google Cloud, AWS, Buildkite, Prometheus, Datadog, Git
 
 Feel free to checkout my [portfolio](https://petemango.me/) and reach out if you think I would be a good addition to your team!
 
-- Email: p25wang[at]uwaterloo[dot]ca
+- Email: p25wang [at] uwaterloo [dot] ca
 - Linkedin: https://www.linkedin.com/in/p25wang/
 
