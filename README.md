@@ -7,7 +7,7 @@ I'm a third year **Software Engineering** student at the **University of Waterlo
 I've worked at <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
 
 **Languages:** Go, Python, C++, Ruby, SQL \
-**Tech:** Flask, Django, Rails, Postgres, GraphQL, Terraform
+**Tech:** Flask, Django, Rails, Postgres, GraphQL, Terraform \
 **Developer Tools:** Docker, Kubernetes, Google Cloud, AWS, Buildkite, Prometheus, Datadog, Git
 
 Feel free to checkout my [portfolio](https://petemango.me/) and reach out if you think I would be a good addition to your team!
