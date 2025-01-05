@@ -4,7 +4,7 @@
 I'm a third year **Software Engineering** student at the **University of Waterloo**, currently seeking \
 **Winter 2026** SWE internship opportunities 🌱
 
-I've worked at <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
+I've worked at <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
 
 **Languages:** Go, Python, C++, Ruby, SQL \
 **Tech:** Flask, Django, Rails, Postgres, GraphQL, Terraform \
