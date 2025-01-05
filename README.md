@@ -10,6 +10,8 @@ I've worked at <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins>
 **Tech:** Flask, Django, Rails, Postgres, GraphQL, Terraform \
 **Developer Tools:** Docker, Kubernetes, Google Cloud, AWS, Buildkite, Prometheus, Datadog, Git
 
+In my spare time, I'm also building [storagebox](https://storagebox.app/) and researching LLM use for medical diagnosis.
+
 Feel free to checkout my [portfolio](https://petemango.me/) and reach out if you think I would be a good addition to your team!
 
 - Email: p25wang [at] uwaterloo [dot] ca
