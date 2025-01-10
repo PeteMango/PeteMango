@@ -7,8 +7,8 @@ I'm a third year **Software Engineering** student at the **University of Waterlo
 I've worked at <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
 
 **Languages:** Go, Python, C++, Ruby, SQL \
-**Tech:** Flask, Django, Rails, Postgres, GraphQL, Terraform \
-**Developer Tools:** Docker, Kubernetes, Google Cloud, AWS, Buildkite, Prometheus, Datadog, Git
+**Tech:** Django, Postgres, GraphQL, Apache Airflow \& Flink \
+**Developer Tools:** Kubernetes, Docker, Google Cloud, AWS, Snowflake, Terraform, Git
 
 In my spare time, I'm also building [storagebox](https://storagebox.app/) and researching the use of LLMs in medical diagnosis.
 
