@@ -10,7 +10,7 @@ I've worked at <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins>
 **Tech:** Django, Postgres, GraphQL, Apache Airflow \& Flink \
 **Developer Tools:** Kubernetes, Docker, Google Cloud, AWS, Snowflake, Terraform, Git
 
-In my spare time, I'm also building [storagebox](https://storagebox.app/) and researching the use of LLMs in medical diagnosis.
+In my spare time, I'm also building [storagebox](https://storagebox.app/).
 
 Feel free to checkout my [portfolio](https://petemango.me/) and reach out if you think I would be a good addition to your team!
 
