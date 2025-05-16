@@ -4,11 +4,11 @@
 I'm a third year **Software Engineering** student at the **University of Waterloo**, currently seeking \
 **Winter 2026** SWE internship opportunities 🌱
 
-I've worked at <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
+I've worked at <ins>Databricks</ins>, <ins>Wealthsimple</ins>, <ins>Shopify</ins>, <ins>WindRiver</ins> & <ins>Blackberry</ins> using:
 
-**Languages:** Go, Python, C++, Ruby, SQL \
-**Tech:** Django, Postgres, GraphQL, Apache Airflow \& Flink \
-**Developer Tools:** Kubernetes, Docker, Google Cloud, AWS, Snowflake, Terraform, Git
+**Languages:** Go, Python, C++, Scala, Ruby, SQL \
+**Tech:** Django, Postgres, GraphQL, Apache Airflow \& Spark \
+**Developer Tools:** Kubernetes, Docker, Google Cloud, AWS, Terraform, Git
 
 In my spare time, I'm also building [storagebox](https://storagebox.app/).
 
